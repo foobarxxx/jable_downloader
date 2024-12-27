@@ -2,16 +2,16 @@
 download jable tv tool
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/2niuhe/jable_downloader/main)
-![Github_workflow](https://github.com/2niuhe/jable_downloader/actions/workflows/python-package.yml/badge.svg)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/2niuhe/jable_downloader)
+![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/foobarxxx/jable_downloader/main)
+![Github_workflow](https://github.com/foobarxxx/jable_downloader/actions/workflows/python-package.yml/badge.svg)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/foobarxxx/jable_downloader)
 
-![GitHub top language](https://img.shields.io/github/languages/top/2niuhe/jable_downloader)
-![GitHub](https://img.shields.io/github/license/2niuhe/jable_downloader)
-![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/2niuhe/jable_downloader/main)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/2niuhe/jable_downloader)
-![GitHub Repo stars](https://img.shields.io/github/stars/2niuhe/jable_downloader?style=social)
-![Github All Releases](https://img.shields.io/github/downloads/2niuhe/jable_downloader/total.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/foobarxxx/jable_downloader)
+![GitHub](https://img.shields.io/github/license/foobarxxx/jable_downloader)
+![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/foobarxxx/jable_downloader/main)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/foobarxxx/jable_downloader)
+![GitHub Repo stars](https://img.shields.io/github/stars/foobarxxx/jable_downloader?style=social)
+![Github All Releases](https://img.shields.io/github/downloads/foobarxxx/jable_downloader/total.svg)
 
 ### Introduction
 下载jable tv视频助手:heart_eyes:
@@ -29,7 +29,7 @@ download jable tv tool
 
 > 为了绕过网站新的反爬机制，有以下两种使用方式：
 > 1. 使用了第三方服务`https://app.scrapingant.com/`，你需要先到网站申请一个token，填到配置文件`config.json`到`sa_token`段中
-> [申请token方法](https://github.com/2niuhe/jable_downloader/issues/10)
+> [申请token方法](https://github.com/foobarxxx/jable_downloader/issues/10)
 > 2. 如果`config.json`文件中不配置`sa_token`段，认为使用本地的chromedp下载，这中模式下需要从release中下载对应系统和cpu架构的chromedp_jable
 > 文件，放到main.py同级目录，这种模式下需要电脑安装有chrome浏览器
 
